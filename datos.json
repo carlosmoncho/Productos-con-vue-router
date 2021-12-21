@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "name": "hopañ",
+      "price": 34,
+      "units": 4,
+      "id": 1
+    }
+  ]
+}
